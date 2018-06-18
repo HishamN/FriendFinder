@@ -17,8 +17,8 @@ var friends = [{
         ]
     },
     {
-        name: "Beyonce Knowles",
-        photo: "https://nyppagesix.files.wordpress.com/2018/05/beyonce-solange.jpg?quality=90&strip=all&w=618&h=410&crop=1",
+        name: "Hisham Nomans",
+        photo: "https://s3-us-west-1.amazonaws.com/co-directory-images/hisham-noman-393555b4.jpg",
         scores: [
             "1",
             "1",
